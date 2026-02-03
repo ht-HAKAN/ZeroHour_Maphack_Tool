@@ -6,7 +6,6 @@
  * DESCRIPTION    : A specialized memory manipulation tool designed for Zero Hour v1.05.
  * This utility uses external byte-patching via Win32 API to unlock the radar and remove the Shroud/Fog of War.
 
-
  * * [ IMPORTANT: VERSION REQUIREMENT ]
  * - This tool is EXCLUSIVELY designed for Zero Hour v1.05.
  * - Using this tool on other versions (v1.04, mods, etc.) WILL NOT WORK and may cause the game to crash due to offset mismatches.
