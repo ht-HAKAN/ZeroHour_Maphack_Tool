@@ -1,4 +1,19 @@
-﻿
+﻿/*
+ * =========================================================================================
+ * PROJECT        : Command & Conquer™ Generals Zero Hour - Maphack & Radar Tool
+ * DEVELOPED BY   : Hakan Tuna
+ * VERSION        : 1.0.5 (Compatible with Official v1.05 Patch)
+ * DESCRIPTION    : A specialized memory manipulation tool designed for Zero Hour v1.05.
+ * This utility uses external byte-patching via Win32 API to unlock the radar and remove the Shroud/Fog of War.
+
+
+ * * [ IMPORTANT: VERSION REQUIREMENT ]
+ * - This tool is EXCLUSIVELY designed for Zero Hour v1.05.
+ * - Using this tool on other versions (v1.04, mods, etc.) WILL NOT WORK and may cause the game to crash due to offset mismatches.
+ * - Running with Administrator privileges is required for process memory access.
+ * =========================================================================================
+ */
+
 using System;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
