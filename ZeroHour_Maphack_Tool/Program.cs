@@ -1,6 +1,6 @@
 ﻿/*
  * =========================================================================================
- * PROJECT        : Command & Conquer™ Generals Zero Hour - Maphack & Radar Tool
+ * PROJECT        : Command & Conquer Generals Zero Hour - Maphack & Radar Tool
  * DEVELOPED BY   : Hakan Tuna
  * VERSION        : 1.0.5 (Compatible with Official v1.05 Patch)
  * DESCRIPTION    : A specialized memory manipulation tool designed for Zero Hour v1.05.
@@ -34,9 +34,9 @@ namespace ZeroHour_Maphack_Tool
 
         static void Main(string[] args)
         {
-            Console.Title = "Command & Conquer™ Generals Zero Hour Maphack Tool";
+            Console.Title = "Command & Conquer Generals Zero Hour Maphack Tool";
 
-            Console.WriteLine("--- Command & Conquer™ Generals Zero Hour & Radar Tool ---");
+            Console.WriteLine("--- Command & Conquer Generals Zero Hour & Radar Tool ---");
             Console.WriteLine("[INFO] Waiting for game process (game.dat)...");
 
             Process targetProcess = null;
